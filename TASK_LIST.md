@@ -27,6 +27,9 @@
 9. **`task/EXPO-03`** — Туториал Expo, часть 3: снимок экрана, статус-бар, сплэш-экран и иконка (главы 7–8).
  *Технологии:* React Native, Expo, `expo-media-library`, `react-native-view-shot`
 
+10. **`task/EXPO-04`** — Перенос приложения «Мой IP» из CAT-01 на React Native с Expo.
+ *Технологии:* React Native, Expo, TypeScript, `fetch`
+
 > Ветки `*-demo` — это готовые шаблоны-заготовки для соответствующих заданий.
 
 > При сдаче задания в описании Pull Request укажите: `[УНИВЕРСИТЕТ] [ФАМИЛИЯ ИМЯ] [ГРУППА]`. Подробнее — в разделе **Pull Request** файла [README.md](README.md).
