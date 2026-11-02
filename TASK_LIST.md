@@ -18,6 +18,15 @@
 6. **`task/EXPO-00`** — Знакомство с Expo: подготовка окружения для React Native.
  *Технологии:* React Native, Expo
 
+7. **`task/EXPO-01`** — Туториал Expo, часть 1: создание приложения, навигация и первый экран (главы 1–3).
+ *Технологии:* React Native, Expo, Expo Router, TypeScript
+
+8. **`task/EXPO-02`** — Туториал Expo, часть 2: выбор изображения, модальное окно и жесты (главы 4–6).
+ *Технологии:* React Native, Expo, `expo-image-picker`, Expo UI, Reanimated
+
+9. **`task/EXPO-03`** — Туториал Expo, часть 3: снимок экрана, статус-бар, сплэш-экран и иконка (главы 7–8).
+ *Технологии:* React Native, Expo, `expo-media-library`, `react-native-view-shot`
+
 > Ветки `*-demo` — это готовые шаблоны-заготовки для соответствующих заданий.
 
 > При сдаче задания в описании Pull Request укажите: `[УНИВЕРСИТЕТ] [ФАМИЛИЯ ИМЯ] [ГРУППА]`. Подробнее — в разделе **Pull Request** файла [README.md](README.md).
